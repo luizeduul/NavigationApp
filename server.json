@@ -1,0 +1,22 @@
+{
+  "techs": [
+    {
+      "id": "nodejs"
+    },
+    {
+      "id": "reactjs"
+    },
+    {
+      "id": "php"
+    },
+    {
+      "id": "C#"
+    },
+    {
+      "id": "cobol"
+    },
+    {
+      "id": "React Native"
+    }
+  ]
+}
